@@ -1,0 +1,39 @@
+p{
+    /* color: darkgreen; - default */
+    /* color: #3300ee; - hex */
+    /* color: rgb(5, 32, 115) ; */
+    color: hsl(157, 62%, 35%)
+}
+
+
+
+.container{
+    background-color: #dd00aa;
+    height: 500px;
+    background-image: url("https://ik.imagekit.io/HoneyJoe/MERN%2020/HTML-ROADMAP.jpg?updatedAt=1755100620870");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+
+.container-2{
+    height: 100px;
+    width: 200px;
+    background-color: #dd00aa;
+    /* padding: 20px; */
+    padding: 20px 10px 5px 30px;
+    /* padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 10px; */
+    /* border-width: 5px; */
+    /* border-top-width: 5px;
+    border-bottom-width: 10px;
+    border-color: black;
+    border-style:solid ; */
+    border: 3px solid black ;  
+    border-radius: 10px 20px 5px 10px;
+    margin: 30px;
+}
+
